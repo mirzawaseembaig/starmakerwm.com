@@ -10,6 +10,7 @@ admin starmakerwm.com " www.starmakerwm.com "
 https://wordpress-4jtpt.wasmer.app/
 ~ % git config --list 
 https://wordpress-4jtpt.wasmer.app/
+https://mirzawaseembaig.github.io/starmakerwm.github.io/#about
 
 https://www.starmakerwm.com/
 demo introducing for game and win the Smwm Luckydraw Promotion play its free for you
